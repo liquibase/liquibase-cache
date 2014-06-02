@@ -1,7 +1,7 @@
 package liquibase.ext.cachedb.sqlgenerator;
 
 import liquibase.database.Database;
-import liquibase.database.core.CacheDatabase;
+import liquibase.ext.cachedb.database.CacheDatabase;
 import liquibase.sqlgenerator.core.ModifyDataTypeGenerator;
 import liquibase.statement.core.ModifyDataTypeStatement;
 

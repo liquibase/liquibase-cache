@@ -4,7 +4,6 @@ import liquibase.CatalogAndSchema;
 import liquibase.database.AbstractJdbcDatabase;
 import liquibase.database.DatabaseConnection;
 import liquibase.exception.DatabaseException;
-import liquibase.sdk.supplier.database.ConnectionConfiguration;
 
 public class CacheDatabase extends AbstractJdbcDatabase {
     public static final String PRODUCT_NAME = "cache";

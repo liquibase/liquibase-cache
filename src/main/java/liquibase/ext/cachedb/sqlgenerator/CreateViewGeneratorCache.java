@@ -3,6 +3,7 @@ package liquibase.ext.cachedb.sqlgenerator;
 import liquibase.database.Database;
 import liquibase.database.core.*;
 import liquibase.exception.ValidationErrors;
+import liquibase.ext.cachedb.database.CacheDatabase;
 import liquibase.sqlgenerator.SqlGeneratorChain;
 import liquibase.statement.core.CreateViewStatement;
 
