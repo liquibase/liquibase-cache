@@ -4,7 +4,7 @@
 
 	<groupId>org.liquibase.ext</groupId>
 	<artifactId>liquibase-cache</artifactId>
-	<version>4.0.1-SNAPSHOT</version>
+	<version>3.10.2</version>
 
 	<name>Liquibase Extension: InterSystems Caché Database Support</name>
 	<description>Adds support for InterSystems Caché database</description>
@@ -29,7 +29,7 @@
 	<scm>
 		<connection>scm:git:http://github.com/liquibase/liquibase-cache.git</connection>
 		<url>https://github.com/liquibase/liquibase-cache</url>
-	  <tag>HEAD</tag>
+	  <tag>liquibase-cache-3.10.2</tag>
   </scm>
 
 	<developers>
