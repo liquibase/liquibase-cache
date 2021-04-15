@@ -1,4 +1,4 @@
-# Liquibase Cache Extension 
+# Liquibase Cache Extension  [![Build and Test Extension](https://github.com/liquibase/liquibase-cache/actions/workflows/build.yml/badge.svg)](https://github.com/liquibase/liquibase-cache/actions/workflows/build.yml)
 
 This is a Liquibase extension for Cache support. [InterSystems Caché®](https://www.intersystems.com/products/cache/) is a high-performance database that powers transaction processing applications around the world. Using the Cache database, you can model and store data as tables, objects, or multidimensional arrays (hierarchies). 
 
