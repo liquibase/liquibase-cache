@@ -63,3 +63,4 @@ Any issues can be logged in the [Github issue tracker](https://github.com/liquib
 ## License
 
 This project is licensed under the [Apache License Version 2.0](https://www.apache.org/licenses/LICENSE-2.0.html).
+
