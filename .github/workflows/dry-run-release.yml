@@ -6,6 +6,11 @@ on:
     # Trigger weekly on Wednesday at midnight Austin time (Standard Time)
     - cron: "0 6 * * 3"
 
+permissions:
+  contents: write
+  actions: read
+  packages: write
+  
 jobs:
 
    dry-run-attach-artifact-to-release:
