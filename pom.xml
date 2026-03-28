@@ -24,7 +24,7 @@
 	</scm>
 
     <properties>
-        <liquibase.version>5.1.0</liquibase.version>
+        <liquibase.version>5.0.2</liquibase.version>
     </properties>
 
 	<build>
